@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 i am writting something
+=======
+i am writting something hello
+>>>>>>> new1
